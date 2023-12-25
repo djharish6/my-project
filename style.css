@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(./top-view-internet-communication-network-with-laptop.jpg);
+    background-size: cover;
+    padding: 250px;
+    
+    background-repeat: no-repeat;
+}
+
